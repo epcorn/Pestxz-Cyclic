@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66addd1e.css",
+    "main.js": "/static/js/main.9bfe3553.js",
+    "static/media/sat9.jpg": "/static/media/sat9.f36174c69b0ac88f3ee9.jpg",
+    "static/media/logo.png": "/static/media/logo.ab0a92e6cf878fb09484.png",
+    "index.html": "/index.html",
+    "main.66addd1e.css.map": "/static/css/main.66addd1e.css.map",
+    "main.9bfe3553.js.map": "/static/js/main.9bfe3553.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66addd1e.css",
+    "static/js/main.9bfe3553.js"
+  ]
+}
